@@ -18,8 +18,6 @@
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/WP_patent.jpg">
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/sertificate_JS.jpg">
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/wayup_layout.jpg">
-</div>
-<div align="center">
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/udemyJSPreview.jpg">
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/udemyVue.jpg">
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/nodeJS_udemy.jpg">
