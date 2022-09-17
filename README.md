@@ -9,20 +9,22 @@
     </a> 
 </p>
 
-<h2 align="center">My sertificates</h2>
+<h2 align="center">My certificates</h2>
 <hr />
 <br />
 
 <div align="center">
-    <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/stepikLayout.jpg">
+    <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/Layout_certificate.jpg">
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/WP_patent.jpg">
-    <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/sertificate_JS.jpg">
+    <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/certificate_JS.jpg">
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/wayup_layout.jpg">
-    <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/udemyJSPreview.jpg">
+    <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/udemyJS.jpg">
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/udemyVue.jpg">
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/nodeJS_udemy.jpg">
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/git_udemy.jpg">
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/react-native-udemy.jpg">
+    <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/TypeScript_udemy.jpg">
+    <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/GraphQL_udemy.jpg">
 </div>
 
 <h2 align="center">My gitHub stats</h2>
