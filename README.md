@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Mikhail</h1>
+<h1 align="center">Hello, I'm Mykhailo</h1>
 <h3 align="center">I'm professional fullstack JavaScript developer with 3+ years experience. My works you can see at <a href="https://svarlog.github.io/resume">sVarlog</a></h3>
 <br />
 <br />
