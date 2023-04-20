@@ -25,6 +25,7 @@
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/react-native-udemy.jpg">
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/TypeScript_udemy.jpg">
     <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/GraphQL_udemy.jpg">
+    <img height="150" width="225" src="https://svarlog.github.io/resume/img/Education/electron_react_udemy.jpg">
 </div>
 
 <h2 align="center">My gitHub stats</h2>
