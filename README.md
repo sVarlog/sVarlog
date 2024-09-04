@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mykhailo</h1>
-<h3 align="center">I'm fullstack JavaScript developer with 4 years of commercial experience. My works you can see at <a href="https://svarlog.github.io/resume">sVarlog</a></h3>
+<h3 align="center">I'm fullstack JavaScript developer with 5+ years of commercial experience.</h3>
 <br />
 <br />
 
