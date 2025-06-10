@@ -30,5 +30,5 @@
 <hr />
 <br />
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sVarlog&count_private=true&hide=tsql&langs_count=7&theme=material-palenight&layout=compact"alt="preview" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sVarlog&count_private=true&hide=tsql&langs_count=10&theme=material-palenight&layout=compact"alt="preview" />
 </p>
